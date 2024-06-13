@@ -1,0 +1,2 @@
+C:\Users\keiki\netpro2024\mid_test> cmd /C "C:\Users\keiki\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\21\bin\java.exe -XX:+ShowCodeDetailsInExceptionMessages -cp C:\Users\keiki\netpro2024\mid_test\bin netpro2024.mid_exam.q1.SevenTeenOdd "
+17,51,85,119,153,187,221,255,289,323,357,391,425,459,493,527,561,595,629,663,697,731,765,799 
