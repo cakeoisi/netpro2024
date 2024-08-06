@@ -1,0 +1,36 @@
+     
+Enter a year (yyyy), or 'q' to exit:
+ 2024
+Server response:  令和6
+Enter a year (yyyy), or 'q' to exit:
+ 1911
+Server response:  明治44
+Enter a year (yyyy), or 'q' to exit:
+ 1812
+Server response:  元号範囲外        
+Enter a year (yyyy), or 'q' to exit:
+ 1912
+Server response:  大正1
+Enter a year (yyyy), or 'q' to exit:
+ 1925
+Server response:  大正14
+Enter a year (yyyy), or 'q' to exit:
+ 1926
+Server response:  昭和1
+Enter a year (yyyy), or 'q' to exit:
+ 1988
+Server response:  昭和63
+Enter a year (yyyy), or 'q' to exit:
+ 1989
+Server response:  平成1
+Enter a year (yyyy), or 'q' to exit:
+ 2018
+Server response:  平成30
+Enter a year (yyyy), or 'q' to exit:
+ 2019
+Server response:  令和1
+Enter a year (yyyy), or 'q' to exit:
+ 2024
+Server response:  令和6
+Enter a year (yyyy), or 'q' to exit:
+ q
